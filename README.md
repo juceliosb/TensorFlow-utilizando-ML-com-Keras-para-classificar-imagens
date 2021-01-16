@@ -1,2 +1,2 @@
 # TensorFlow-utilizando-ML-com-Keras-para-classificar-imagens
-Este é trabalho que treina um modelo de  rede neural para classificação de imagens de roupas, como tênis e camisetas.
+Utilidade de uma rede neural para classificação de imagens de roupas com base de dados Fashion MNIST.
